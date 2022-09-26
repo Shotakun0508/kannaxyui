@@ -50,24 +50,24 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://youtube.com/c/LeonGanz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
+global.pdana = '089669394418'
+global.povo = '089669394418'
+global.pgopay = '089669394418'
+global.ppulsa = '089669394418'
+global.ppulsa2 = '089669394418'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
-global.namebot = 'Yusuf Oct'
-global.nameown = 'Yusuf Oct'
+global.nomorbot = '6281339487460'
+global.nomorown = '6289669394418'
+global.nomorpart = '6289669394418'
+global.namebot = 'Shota-Kun-BotZ'
+global.nameown = 'Aditya-Ganss'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127104362', 'Yusuf Oct', true],
+  ['6281339487460', 'Aditya-Gans', true],
   ['6285608625102', 'Rama Agung', true],
   ['6282351319893', 'Muhimmah Putri', true],
   ['6283847909854', 'Zaky Rashif', true],
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 Shota - Kun 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Shota - Kun ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Shota - Kun '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Aditya-Ganss`
+global.author = '                「 Aditya - Ganss あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'Shota - Kun'
+global.stickauth = `By ©Shota-Kun`
 
 global.multiplier = 38 // The higher, The harder levelup
 
